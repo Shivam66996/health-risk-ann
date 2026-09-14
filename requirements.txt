@@ -1,5 +1,5 @@
-streamlit
-tensorflow
-numpy
-joblib
-scikit-learn
+streamlit==1.50.0
+tensorflow==2.21.0
+numpy==2.4.6
+joblib==1.5.2
+scikit-learn==1.7.2
